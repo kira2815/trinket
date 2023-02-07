@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "trinket-db",
+			"path": ".."
+		},
+		{
+			"name": "images",
+			"path": "../../../../../../../Downloads/images"
+		}
+	],
+	"settings": {}
+}
